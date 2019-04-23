@@ -1,8 +1,4 @@
-def gcd(p, q):
-    if q == 0:
-        return p
-    return gcd(q, p % q)
-
+from datastructuresandalgorithms.numbers.gcd import gcd
 
 def hasSameFactors(p, q):
     if p == q == 0:
