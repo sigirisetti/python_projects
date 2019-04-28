@@ -1,0 +1,16 @@
+.gradle
+.metadata
+.recommenders
+.settings
+bin/
+build/
+target/
+temp/
+Servers
+RemoteSystemsTempFiles
+*.iml
+**/*.iml
+**/.idea/**
+**/translator-*/**
+**/log/**
+

@@ -30,3 +30,7 @@ print ([num for elem in vec for num in elem])
 
 from math import pi
 print ([str(round(pi, i)) for i in range(1, 6)])
+
+animals = ['dog', 'cat', 'bird']
+plurals = [animal + 's' for animal in animals]
+print(plurals)
