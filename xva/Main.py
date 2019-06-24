@@ -29,7 +29,7 @@ from LoginDialog import LoginDialog
 from XvaCalcResultDownloaderViewBuilder import XvaCalcResultDownloaderViewBuilder
 
 # Set Locale
-locale.setlocale(locale.LC_NUMERIC, 'English')
+# locale.setlocale(locale.LC_NUMERIC, 'English')
 
 
 class Main(QMainWindow):

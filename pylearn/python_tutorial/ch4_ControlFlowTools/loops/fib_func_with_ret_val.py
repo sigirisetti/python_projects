@@ -6,5 +6,8 @@ def fib2(n):
         a, b = b, a+b
     return result
 
+
 f100 = fib2(100)
+
+
 print(f100)

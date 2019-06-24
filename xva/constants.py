@@ -10,7 +10,7 @@ SUB_TAB_PAYMENT_MATRIX_PLOT = "Payment Matrix"
 MAIN_TAB_XVA_RESULTS = "XVA Results"
 
 # File Paths
-OV_CAS_RES_DIR = r"C:\Users\skiran\AppData\Local\Temp\ov\xva\cas_results"
+OV_CAS_RES_DIR = r"~/work/python/python_projects/xva/sample_data"
 # OV_CAS_RES_DIR = r"C:/tmp/cas/xva/rbl_output"
 # OV_CAS_RES_DIR = r"sample_data"
 # BULKSTORE_DOWNLOAD_DIR = r"C:/tmp/cas/xva/bulkstore/"

@@ -13,4 +13,5 @@ RemoteSystemsTempFiles
 **/.idea/**
 **/translator-*/**
 **/log/**
-
+.idea/**/*.xml
+**/workspace.xml
