@@ -2,6 +2,7 @@
 .metadata
 .recommenders
 .settings
+.idea
 bin/
 build/
 target/
@@ -13,5 +14,5 @@ RemoteSystemsTempFiles
 **/.idea/**
 **/translator-*/**
 **/log/**
-.idea/**/*.xml
-**/workspace.xml
+**/__pycache__/**
+
