@@ -1,5 +1,6 @@
 import sys
 
+
 print(sys.version)
 
 print(sys.executable)
@@ -20,3 +21,5 @@ print(platform.platform())
 print(platform.processor())
 print(platform.python_build())
 print(platform.python_version())
+
+print(platform.)
