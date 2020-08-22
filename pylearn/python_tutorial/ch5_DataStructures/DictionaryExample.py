@@ -13,3 +13,7 @@ print(sorted(tel.keys()))
 
 print('guido' in tel)
 print('jack' not in tel)
+
+it = iter(tel.keys())
+
+print(next(it))

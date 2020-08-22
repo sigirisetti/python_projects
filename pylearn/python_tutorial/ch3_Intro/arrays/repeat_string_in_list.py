@@ -1,0 +1,1 @@
+print(["A" for i in range(10)])
